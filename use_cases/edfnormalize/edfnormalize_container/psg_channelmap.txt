@@ -1,0 +1,391 @@
+Label           :Channel1:Labelstandard :Channel2
+EEGF4-A1        :1  :EEG F4-A1          :1
+EEGC4-A1        :2  :EEG C4-A1          :2
+EEGO2-A1        :3  :EEG O2-A1          :3
+EEGF3-A2        :4  :EEG F3-A2          :4
+EEGC3-A2        :5  :EEG C3-A2          :5
+EEGO1-A2        :6  :EEG O1-A2          :6
+EOGE1-A2        :7  :EOG E1-A2          :7
+EOGE2-A2        :8  :EOG E2-A2          :8
+EMGCHIN         :9  :EMG chin           :9
+EMGRAT          :10 :EMG RAT            :10
+EMGLAT          :11 :EMG LAT            :11
+ECG             :12 :ECG                :12
+RESPNASAL       :13 :Resp nasal         :13
+RESPCHEST       :14 :Resp chest         :14
+RESPABDOMEN     :15 :Resp abdomen       :15
+SOUNDSNORING    :16 :Sound snoring      :16
+SAO2            :17 :SaO2               :17
+POSITIONBODY    :18 :Position body      :18
+F4-A1           :1  :EEG F4-A1          :1
+F4-M1           :1  :EEG F4-A1          :1
+F4-M1,EEG       :1  :EEG F4-A1          :1
+EEG(F4-M1)      :1  :EEG F4-A1          :1
+C4-A1           :2  :EEG C4-A1          :2
+C4-A1_          :2  :EEG C4-A1          :2
+C4-M1           :2  :EEG C4-A1          :2
+C4M1            :2  :EEG C4-A1          :2
+C4-M1,EEG       :2  :EEG C4-A1          :2
+EEG(C4-M1)      :2  :EEG C4-A1          :2
+O2-A1       	:3  :EEG O2-A1          :3
+O2-M1           :3  :EEG O2-A1          :3
+O2M1            :3  :EEG O2-A1          :3
+O2-M1,EEG       :3  :EEG O2-A1          :3
+EEG(O2-M1)      :3  :EEG O2-A1          :3
+F3-A2           :4  :EEG F3-A2          :4
+F3-M2           :4  :EEG F3-A2          :4
+F3-M2,EEG       :4  :EEG F3-A1          :4
+EEG(F3-M2)      :4  :EEG F3-A2          :4
+C3-A2           :5  :EEG C3-A2          :5
+C3-A2_          :5  :EEG C3-A2          :5
+C3-M2           :5  :EEG C3-A2          :5
+C3M2            :5  :EEG C3-A2          :5
+C3-M2,EEG       :5  :EEG C3-A2          :5
+EEG(C3-M2)      :5  :EEG C3-A2          :5
+O1-A2           :6  :EEG O1-A2          :6
+O1-M1           :6  :EEG O1-A2          :6
+O1-M2           :6  :EEG O1-A2          :6
+O1M2            :6  :EEG O1-A2          :6
+O1-M2,EEG       :6  :EEG O1-A2          :6
+EEG(O1-M2)      :6  :EEG O1-A2          :6
+E1-M2           :7  :EOG E1-A2          :7
+E1              :7  :EOG E1             :7
+EO1             :7  :EOG E1             :7
+EOG1            :7  :EOG E1             :7
+EOGLEFT         :7  :EOG E1             :7
+EOGLOC          :7  :EOG E1             :7
+LOC             :7  :EOG E1             :7
+LOC_            :7  :EOG E1             :7
+AUGE(L)         :7  :EOG E1             :7
+EOGP18-M1       :7  :EOG E1             :7
+POS18-A1        :7  :EOG E1             :7
+POS18-M1        :7  :EOG E1             :7
+POS18M1         :7  :EOG E1             :7
+POS18-M,EOG     :7  :EOG E1             :7
+POS18-M1,EOG    :7  :EOG E1             :7
+POS18-M1-M1,E   :7  :EOG E1             :7
+EOGVERTICAL     :7  :EOG vertical       :7
+EOGVERT         :7  :EOG vertical       :7
+AUVERT          :7  :EOG vertical       :7
+AUGE(V)         :7  :EOG vertical       :7
+E2-M1           :8  :EOG E2-A2          :8
+E2              :8  :EOG E2             :8
+EO2             :8  :EOG E2             :8
+EOG2            :8  :EOG E2             :8
+EOGRIGHT        :8  :EOG E2             :8
+EOGROC          :8  :EOG E2             :8
+ROC             :8  :EOG E2             :8
+ROC_            :8  :EOG E2             :8
+AUGE(R)         :8  :EOG E2             :8
+EOGP8-M1        :8  :EOG E2             :8
+POS8-A1         :8  :EOG E2             :8
+POS8-M1         :8  :EOG E2             :8
+POS8M1          :8  :EOG E2             :8
+POS8.M1         :8  :EOG E2             :8
+POS8-M1,EOG     :8  :EOG E2             :8
+POS8-M1-M1,EO   :8  :EOG E2             :8
+EOGHORIZONTAL   :8  :EOG horizontal     :8
+EOGHORIZ        :8  :EOG horizontal     :8
+AUHOR           :8  :EOG horizontal     :8
+AUGE(H)         :8  :EOG horizontal     :8
+EMG(CHIN)       :9  :EMG chin           :9
+KINN(M)         :9  :EMG chin           :9
+KINN            :9  :EMG chin           :9
+KINN_           :9  :EMG chin           :9
+CHIN            :9  :EMG chin           :9
+CHIN1           :9  :EMG chin           :9
+CHIN2           :9  :EMG chin           :9
+CHIN3           :9  :EMG Chin           :9
+EMG1            :9  :EMG chin           :9
+EMG2            :9  :EMG chin           :9
+EMGMENT         :9  :EMG chin           :9
+EMGMENTA        :9  :EMG chin           :9
+EMGMENTAL       :9  :EMG chin           :9
+EMGMENTAL\00    :9  :EMG chin           :9
+EMGMENTALIS     :9  :EMG chin           :9
+EMGMENT,EMG     :9  :EMG chin           :9
+EMGMENTAL,EMG   :9  :EMG chin           :9
+BEINRECHTS      :10 :EMG RAT            :10
+BEIN(R)         :10 :EMG RAT            :10
+REBEIN          :10 :EMG RAT            :10
+EMGTIBIALR      :10 :EMG RAT            :10
+EMGTIBRIGHT     :10 :EMG RAT            :10    
+EMGEMGTIBRI     :10 :EMG RAT            :10
+EMG-TIB-RE      :10 :EMG RAT            :10
+RIGHTLEG        :10 :EMG RAT            :10
+RLEG            :10 :EMG RAT            :10
+RLEG1           :10 :EMG RAT            :10
+RLEG2           :10 :EMG RAT            :10
+R-LEG           :10 :EMG RAT            :10
+RAT             :10 :EMG RAT            :10
+RAT2    	:10 :EMG RAT            :10
+LEG-R1          :10 :EMG RAT            :10
+LEG-R2          :10 :EMG RAT            :10
+LEG/R           :10 :EMG RAT            :10
+LEGS            :10 :EMG UAT            :10
+LEGBEIN2        :10 :EMG RAT            :10
+LEGBEINRE       :10 :EMG RAT            :10
+LEGLEG-R        :10 :EMG RAT            :10
+BEINLINKS       :11 :EMG LAT            :11
+BEIN(L)         :11 :EMG LAT            :11
+LIBEIN          :11 :EMG LAT            :11
+EMGLEFT         :11 :EMG LAT            :11
+EMGTIBIALL      :11 :EMG LAT            :11
+EMGTIBLEFT      :11 :EMG LAT            :11
+EMGEMGTIBLE     :11 :EMG LAT            :11
+EMG-TIB-LI      :11 :EMG LAT            :11
+LEFTLEG         :11 :EMG LAT            :11
+LLEG            :11 :EMG LAT            :11
+LLEG1           :11 :EMG LAT            :11
+LLEG2           :11 :EMG LAT            :11
+L-LEG           :11 :EMG LAT            :11
+LAT             :11 :EMG LAT            :11
+LAT2            :11 :EMG LAT            :11
+LEG-L1          :11 :EMG LAT            :11
+LEG-L2      	:11 :EMG LAT            :11
+LEG/L           :11 :EMG LAT            :11
+LEGBEIN1        :11 :EMG LAT            :11
+LEGBEINLI  	:11 :EMG LAT            :11
+LEGLEG-L        :11 :EMG LAT            :11
+EKG             :12 :ECG                :12
+EKG_            :12 :ECG                :12
+EKG1            :12 :ECG                :12
+EKG2            :12 :ECG                :12
+ECG1            :12 :ECG                :12
+ECG2            :12 :ECG                :12
+ECGI            :12 :ECG                :12
+ECGII           :12 :ECG                :12
+ECG,ECG         :12 :ECG                :12
+NAS             :13 :Resp nasal         :13
+AIRFLOW         :13 :Resp nasal         :13
+AIRFLOW,        :13 :Resp nasal         :13
+AIRFLOW\00      :13 :Resp nasal         :13
+AIRFLOW,FLOW    :13 :Resp nasal         :13
+FLOW            :13 :Resp nasal         :13
+FLOW_           :13 :Resp nasal         :13
+FLOW_CU         :13 :Resp nasal         :13
+FLUSS_CU        :13 :Resp nasal         :13
+XFLOW_CU        :13 :Resp nasal         :13
+FLOWPATIENT     :13 :Resp nasal         :13
+RESPIRATORYFLOW :13 :Resp nasal         :13
+NASAL-TRANS     :13 :Resp nasal         :13
+NASALPRESS.     :13 :Resp nasal         :13
+NASALPRESSURE   :13 :Resp nasal         :13
+THERMISTOR      :13 :Resp nasal         :13
+PNEUMOFLOW      :13 :Resp nasal         :13
+RESPNASAL       :13 :Resp nasal         :13
+CHEST           :14 :Resp chest         :14
+CHEST,          :14 :Resp chest         :14
+CHEST\00        :14 :Resp chest         :14
+RESPCHEST       :14 :Resp chest         :14
+RESP.CHEST      :14 :Resp chest         :14
+CHEST,EFFORT    :14 :Resp chest         :14
+CHESTWALLMOV.   :14 :Resp chest         :14
+CHESTMOVEMENTS  :14 :Resp chest         :14
+THO             :14 :Resp chest         :14
+THOR            :14 :Resp chest         :14
+THORAX          :14 :Resp chest         :14
+EFFORTTHO       :14 :Resp chest         :14
+BRUSTATMUNG     :14 :Resp chest         :14
+ABD             :15 :Resp abdomen       :15
+ABDO            :15 :Resp abdomen       :15
+ABDOMEN         :15 :Resp abdomen       :15
+ABDOMEN\00      :15 :Resp abdomen       :15
+RESP.ABD.       :15 :Resp abdomen       :15
+ABDOMINALMOV.   :15 :Resp abdomen       :15
+ABDOMINAKMOVEME :15 :Resp abdomen       :15
+EFFORTABD       :15 :Resp abdomen       :15
+ABDOMEN,EFFORT  :15 :Resp abdomen       :15
+BAUCHATMUNG     :15 :Resp abdomen       :15
+SNORE           :16 :Sound snoring      :16
+SNORE_CU        :16 :Sound snoring      :16
+SNORING         :16 :Sound snoring      :16
+SNORINGSENSOR   :16 :Sound snoring      :16
+SCHNARCHEN_CU   :16 :Sound snoring      :16
+PNEUMOSCHNARCH  :16 :Sound snoring      :16
+SAT             :17 :SaO2               :17
+O2-SAT.         :17 :SaO2               :17
+SPO2            :17 :SaO2               :17
+SAO2,SAO2       :17 :SaO2               :17
+SAO2\00         :17 :SaO2               :17	
+SAO2\00\00\00\00:17 :SaO2               :17
+SPO2BB          :17 :SaO2               :17
+GND-SPO2        :17 :SaO2               :17	
+OXYMETRY        :17 :SaO2               :17	
+OXYGENSAT.      :17 :SaO2               :17
+POS             :18 :Position body      :18
+POSITION        :18 :Position body      :18
+POSSENSOR       :18 :Position body      :18
+POSITION_CU     :18 :Position body      :18
+BODYPOSITION    :18 :Position body      :18
+BODY            :18 :Position body      :18
+LAGE            :18 :Position body      :18
+KÖRPERLAGE_CU   :18 :Position body      :18
+MANUALPOS       :18 :Position body      :18
+A1              :0  :EEG A1             :0
+M1              :0  :EEG A1             :0
+EEGA1           :0  :EEG A1             :0
+A2              :0  :EEG A2             :0
+M2              :0  :EEG A2             :0
+EEGA2           :0  :EEG A2             :0
+A1-A2           :0  :EEG A1-A2          :0
+M1-M2           :0  :EEG A1-A2          :0
+EEGA1-A2        :0  :EEG A1-A2          :0
+EEG(M1-M2)      :0  :EEG A1-A2          :0
+M2-M1           :0  :EEG A1-A2          :0
+M2M1            :0  :EEG A1-A2          :0
+A2-M1           :0  :EEG A1-A2          :0
+M2-M1\00        :0  :EEG A1-A2          :0
+M2-M1,EEG       :0  :EEG A1-A2          :0
+A2-A1           :0  :EEG A2-A1          :0
+C3              :0  :EEG C3             :0
+EEGC3           :0  :EEG C3             :0
+C4              :0  :EEG C4             :0
+EEGC4           :0  :EEG C4             :0
+CZ              :0  :EEG Cz             :0
+CZ-M1           :0  :EEG Cz-A1          :0
+CZ-M1,EEG       :0  :EEG Cz-A1          :0
+E1              :0  :EEG E1             :0
+E2              :0  :EEG E2             :0
+F3              :0  :EEG F3             :0
+EEGF3           :0  :EEG F3             :0
+F3-CZ_          :0  :EEG F3-Cz          :0
+EEGF3-CZ        :0  :EEG F3-Cz          :0
+F4              :0  :EEG F4             :0
+EEGF4           :0  :EEG F4             :0
+F4-CZ_          :0  :EEG F4-Cz          :0
+EEGF4-CZ        :0  :EEG F4-Cz          :0
+O1              :0  :EEG O1             :0
+EEGO1           :0  :EEG O1             :0
+O2              :0  :EEG O2             :0
+EEGO2           :0  :EEG O2             :0
+F7              :0  :EEG F7             :0
+F7-M2,EEG       :0  :EEG F7-A2          :0
+F7-M2,POS       :0  :EEG F7-A2          :0
+F8              :0  :EEG F8             :0
+F8-M1,EEG       :0  :EEG F8-A1          :0
+FP1             :0  :EEG Fp1            :0
+FP1M2           :0  :EEG Fp1-A2         :0
+FP1-M2          :0  :EEG Fp1-A2         :0
+FP1-A2          :0  :EEG Fp1-A2         :0
+FP1-M2,EEG      :0  :EEG Fp1-A2         :0
+FP2             :0  :EEG Fp2            :0
+FP2M1           :0  :EEG Fp2-A1         :0
+FP2-M1          :0  :EEG Fp2-A1         :0
+FP2-A1          :0  :EEG Fp2-A1         :0
+FP2-M1,EEG      :0  :EEG Fp2-A1         :0
+FZ              :0  :EEG Fz             :0
+FZ-M1           :0  :EEG Fz-A1          :0
+FZ-M1,EEG       :0  :EEG Fz-A1          :0
+P3              :0  :EEG P3             :0
+P3-M2,EEG       :0  :EEG P3-A2          :0
+P4              :0  :EEG P4             :0
+P4-M1,EEG       :0  :EEG P4-A1          :0
+PZ              :0  :EEG Pz             :0
+PZ-M1           :0  :EEG Pz-A1          :0
+PZ-M1,EEG       :0  :EEG Pz-A1          :0
+T3              :0  :EEG T3             :0
+T3-M2,EEG       :0  :EEG T3-A2          :0
+T4              :0  :EEG T4             :0
+T4-M1,EEG       :0  :EEG T4-A1          :0
+T5              :0  :EEG T5             :0
+T5-M2,EEG       :0  :EEG T5-A2          :0
+T6              :0  :EEG T6             :0
+T6-M1,EEG       :0  :EEG T6-A1          :0
+EMGRARM         :0  :EMG RArm           :0
+R-ARM           :0  :EMG RArm           :0
+EMGEMGARMRI     :0  :EMG RArm           :0
+EMGLARM         :0  :EMG LArm           :0
+L-ARM           :0  :EMG LArm           :0
+EMGEMGARMLE     :0  :EMG LArm           :0
+EMGCHIN-SUBMENT :0  :EMG chin-subment   :0
+KINN(S)         :0  :EMG chin-subment   :0
+SUBMENT         :0  :EMG chin-subment   :0
+EMGSUBM.        :0  :EMG chin-subment   :0
+EMG-SUBM        :0  :EMG chin-subment   :0
+EMGSUBMENTAL    :0  :EMG chin-subment   :0
+EMG-X5          :0  :EMG X5             :0
+EMG-X6          :0  :EMG X6             :0
+EMG-X7          :0  :EMG X7             :0
+EMG-X8          :0  :EMG X8             :0
+LIGHT           :0  :Event light        :0
+LICHT_CU        :0  :Event light        :0
+PCO2END-TIDAL   :0  :PCO2 end-tidal     :0
+ETCO2           :0  :PCO2 end-tidal     :0
+CO2ENDTIDAL     :0  :PCO2 end-tidal     :0
+PCO2TRANSCUTAN  :0  :PCO2 transcutan    :0
+TCPCO2          :0  :PCO2 transcutan    :0
+RESPORO-NASAL   :0  :Resp oro-nasal     :0
+ORA             :0  :Resp oral          :0
+RESPORAL        :0  :Resp oral          :0
+RESPCPAP        :0  :Resp CPAP          :0
+CPAP            :0  :Resp CPAP          :0
+XPAPCPAP        :0  :Resp CPAP          :0
+CPAPFLOW        :0  :Resp CPAP          :0
+CPAPPRESS       :0  :Resp CPAP          :0
+CPAPPRESSURE    :0  :Resp CPAP          :0
+RESPVOLUME      :0  :Resp Volume        :0
+PLETH           :0  :Resp Volume        :0
+TIDVOL          :0  :Resp Volume        :0
+PLETHYSMOGRAM   :0  :Resp Volume        :0
+TIDALVOLUME_CU  :0  :Resp Volume        :0
+ATEMZUGVOLUMEN_C:0  :Resp Volume        :0
+RESPIRATORYRATE :0  :Result resprate    :0	
+RESULTHEARTRATE :0  :Result heartrate   :0
+RR              :0  :Result heartrate   :0
+RR_CU           :0  :Result heartrate   :0
+DERIVEDHR       :0  :Result heartrate   :0
+HEARTRATE_CU    :0  :Result heartrate   :0
+HERZFREQUENZ_CU :0  :Result heartrate   :0
+RESULTPULSE     :0  :Result pulse       :0
+PULS            :0  :Result pulse       :0
+PULSE           :0  :Result pulse       :0
+PULSRATE_       :0  :Result pulse       :0
+PULSERATE       :0  :Result pulse       :0
+PULSETEST       :0  :Result pulse       :0
+SAO2QUALITY     :0  :SaO2 Quality       :0
+OXSTATUS        :0  :SaO2 Quality       :0
+SPO2-QUALITY_CU :0  :SaO2 Quality       :0
+SPO2-QUALITÄT_CU:0  :SaO2 Quality       :0
+SOUNDRAW        :0  :Sound raw          :0
+SOUND           :0  :Sound raw          :0
+TEMPBODY        :0  :Temp body          :0
+KORPERKERNTEMP  :0  :Temp body          :0
+TESTIMPEDANCE   :0  :Test impedance     :0
+IMP             :0  :Test impedance     :0
+-               :0  :unknown            :0
+ÖSOPHAGUSDRUCK  :0  :unknown            :0
+ACTIVITY_CU     :0  :unknown            :0
+AKTIVITÄT_CU    :0  :unknown            :0
+CO2WAVE         :0  :unknown            :0
+ELEVATION_CU    :0  :unknown            :0
+EMG(L+RTIB.)    :0  :unknown            :0
+EMGBEIN         :0  :unknown            :0
+EMGFDSLEFT      :0  :unknown            :0
+EMGFDSRIGHT     :0  :unknown            :0
+EMGLINKED       :0  :unknown            :0
+EMG-LINKED      :0  :unknown            :0
+EMGLINKED,EM    :0  :unknown            :0
+EMG-LINKED,EM   :0  :unknown            :0
+EMGLINKED,EMG   :0  :unknown            :0
+EMGLINKED\00    :0  :unknown            :0
+EMGL/RAT        :0  :unknown            :0
+EMGTIB.ANT.     :0  :unknown            :0
+EMGTIBIALIS     :0  :unknown            :0
+ERHEBUNG_CU     :0  :unknown            :0
+FP-M2           :0  :unknown            :0
+GRAVITYX        :0  :unknown            :0
+GRAVITYY        :0  :unknown            :0
+HERZFREQUENZVARI:0  :unknown            :0
+LEAKTOTAL       :0  :unknown            :0
+NAF             :0  :unknown            :0
+PAT-EVENT       :0  :unknown            :0
+PH-D            :0  :unknown            :0
+PHASE_CU        :0  :unknown            :0
+PRESSURE        :0  :unknown            :0
+R-RINTERVALLE   :0  :unknown            :0
+RD-QUALITY      :0  :unknown            :0
+RMI_CU          :0  :unknown            :0
+SUM             :0  :unknown            :0
+SUM             :0  :unknown            :0
+XSUM_CU         :0  :unknown            :0

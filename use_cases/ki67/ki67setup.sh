@@ -1,0 +1,7 @@
+export EXPERIMENT_OPTS="-v /home/local/Desktop/input/input.png:/input.png"
+export EXPERIMENT_RESULT_FILES="^$"
+export CONTAINER="dckr.f4.htw-berlin.de/ki67_container"
+export TRACING_APPLICATION="mono /ki67/Ki67Analyser.exe /input.png 1"
+export STRIP_ARGUMENTS="--include=/lib64/ld-linux-x86-64.so.2 --include=/usr/bin/mono"
+export STRIP_DOCKERFILE="/home/local/Desktop/Mac/bb-it-boost-secure-computing/Experimente/ContainerStripping/ki67_container_stripped/Dockerfile"
+export DOCKER_SECURITY="--network=none --pids-limit=7 --cap-drop=NET_BIND_SERVICE --cap-drop=SETFCAP --cap-drop=FOWNER --cap-drop=MKNOD --cap-drop=NET_RAW --cap-drop=SETUID --cap-drop=SETGID --cap-drop=SETPCAP --cap-drop=CHOWN --cap-drop=SYS_CHROOT --security-opt=seccomp=profile.json"

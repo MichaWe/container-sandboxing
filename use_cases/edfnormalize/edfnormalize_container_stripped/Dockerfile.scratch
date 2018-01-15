@@ -1,0 +1,6 @@
+FROM scratch
+
+ENV LD_LIBRARY_PATH $LD_LIBRARY_PATH:/usr/local/MATLAB/MATLAB_Runtime/v85/runtime/glnxa64:/usr/local/MATLAB/MATLAB_Runtime/v85/bin/glnxa64:/usr/local/MATLAB/MATLAB_Runtime/v85/sys/os/glnxa64
+
+WORKDIR "/"
+CMD ["/algorithm", "data", "input.edf"]
